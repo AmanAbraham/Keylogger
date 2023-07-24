@@ -1,0 +1,6 @@
+pynput
+keyboard
+cryptography
+schedule
+smtplib
+email.mime
