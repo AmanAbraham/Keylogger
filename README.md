@@ -20,7 +20,7 @@ The Professional Python Keylogger is a versatile and discreet keylogging tool de
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/your_project.git`
+1. Clone the repository: `git clone https://github.com/AmanAbraham/Keylogger.git`
 2. Install required libraries: `pip install -r requirements.txt`
 
 ## Usage
